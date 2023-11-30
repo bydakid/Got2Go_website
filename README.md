@@ -5,10 +5,10 @@
 Got2Go is a fictional website project aimed at showcasing cutting-edge design and aesthetics while addressing the themes of food waste reduction and car sharing. This project serves as an example for creating visually appealing websites with a focus on user experience and interface design.
 
 ## About
-Design Showcase
+###Design Showcase
 Got2Go is a conceptual website focusing on presenting a sleek and modern design. It aims to demonstrate how user interfaces can be visually captivating while still conveying important messages about sustainability and community engagement.
 
-## Theme Inspiration
+### Theme Inspiration
 This project draws inspiration from the ideas of reducing food waste and promoting car sharing, using these themes as a backdrop to showcase an aesthetically pleasing website design.
 
 ## Key Features
